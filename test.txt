@@ -1,0 +1,35 @@
+[
+  {
+    _id: new ObjectId('657626b9a9a72668e2f3b4e2'),
+    firstname: 'Mohammed',
+    lastname: 'Al-awlaqi',
+    email: 'aimankhaled1993@gmail.com',
+    phoneNumber: 555555555555,
+    age: 20,
+    country: 'Morocco',
+    gender: 'Male',
+    __v: 0
+  },
+  {
+    _id: new ObjectId('65774f6f869758ba3e3ea7dd'),
+    firstname: 'ayman',
+    lastname: 'khaled',
+    email: 'hello@gg.com',
+    phoneNumber: 51111111111,
+    age: 32,
+    country: 'Egypt',
+    gender: 'Male',
+    __v: 0
+  },
+  {
+    _id: new ObjectId('65774f92869758ba3e3ea7df'),
+    firstname: 'afnan',
+    lastname: 'Al-awlaqi',
+    email: '546@hfh',
+    phoneNumber: 54444444444,
+    age: 33,
+    country: 'Morocco',
+    gender: 'Female',
+    __v: 0
+  }
+]
